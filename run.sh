@@ -1,1 +1,1 @@
-echo 'Hello there! $(whoami)'
+echo 'Hello there! '$(whoami)
